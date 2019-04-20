@@ -1,3 +1,3 @@
 # Faustobot
 
-## Bot que posta uma foto aleatória do faustão a cada uma hora no twiter __(@faustobot)__
+Bot que posta fotos aleatórias do faustão de hora em hora no twiter. __(@faustobot)__
